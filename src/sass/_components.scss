@@ -1,0 +1,33 @@
+//Typography
+
+.h1 {
+  @include h1;
+}
+
+.h2 {
+  @include h2;
+}
+
+.h3 {
+  @include h3;
+}
+
+.h4 {
+  @include h4;
+}
+
+.pl {
+  @include pl;
+}
+
+.plb {
+  @include plb;
+}
+
+.ps {
+  @include ps;
+}
+
+.psb {
+  @include psb;
+}

@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: calc(12px + 1.45vw);
+
+  @media screen and (min-width: 600px) {
+    font-size: calc(12px + 0.45vw);
+  }
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100vw;
+  overflow-x: hidden;
+  background-color: white;
+}
+
+a {
+  text-decoration: none;
+}
