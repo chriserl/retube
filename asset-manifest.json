@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/retube/static/css/main.936938c4.chunk.css",
-    "main.js": "/retube/static/js/main.d9c82e06.chunk.js",
-    "main.js.map": "/retube/static/js/main.d9c82e06.chunk.js.map",
+    "main.css": "/retube/static/css/main.f58f47fe.chunk.css",
+    "main.js": "/retube/static/js/main.97670361.chunk.js",
+    "main.js.map": "/retube/static/js/main.97670361.chunk.js.map",
     "runtime-main.js": "/retube/static/js/runtime-main.f2e54f4c.js",
     "runtime-main.js.map": "/retube/static/js/runtime-main.f2e54f4c.js.map",
     "static/js/2.7e48b202.chunk.js": "/retube/static/js/2.7e48b202.chunk.js",
     "static/js/2.7e48b202.chunk.js.map": "/retube/static/js/2.7e48b202.chunk.js.map",
     "index.html": "/retube/index.html",
-    "precache-manifest.548357000b92bc7f082e97b0cc7b8606.js": "/retube/precache-manifest.548357000b92bc7f082e97b0cc7b8606.js",
+    "precache-manifest.47307ddf210901c62c5a70dae52d4d9d.js": "/retube/precache-manifest.47307ddf210901c62c5a70dae52d4d9d.js",
     "service-worker.js": "/retube/service-worker.js",
-    "static/css/main.936938c4.chunk.css.map": "/retube/static/css/main.936938c4.chunk.css.map",
+    "static/css/main.f58f47fe.chunk.css.map": "/retube/static/css/main.f58f47fe.chunk.css.map",
     "static/js/2.7e48b202.chunk.js.LICENSE.txt": "/retube/static/js/2.7e48b202.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f2e54f4c.js",
     "static/js/2.7e48b202.chunk.js",
-    "static/css/main.936938c4.chunk.css",
-    "static/js/main.d9c82e06.chunk.js"
+    "static/css/main.f58f47fe.chunk.css",
+    "static/js/main.97670361.chunk.js"
   ]
 }
