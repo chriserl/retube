@@ -12,22 +12,14 @@
   @include h3;
 }
 
-.h4 {
-  @include h4;
-}
-
 .pl {
   @include pl;
-}
-
-.plb {
-  @include plb;
 }
 
 .ps {
   @include ps;
 }
 
-.psb {
-  @include psb;
+.px {
+  @include px;
 }

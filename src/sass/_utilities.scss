@@ -12,22 +12,14 @@
   font-size: calc(0.125rem * 9.5);
 }
 
-@mixin h4 {
+@mixin pl {
   font-size: calc(0.125rem * 7.5);
 }
 
-@mixin pl {
-  font-size: calc(0.125rem * 6.5);
-}
-
-@mixin plb {
-  font-size: calc(0.125rem * 6.5);
-}
-
 @mixin ps {
-  font-size: calc(0.125rem * 5.95);
+  font-size: calc(0.125rem * 6.5);
 }
 
-@mixin psb {
+@mixin px {
   font-size: calc(0.125rem * 5.95);
 }
