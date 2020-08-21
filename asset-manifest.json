@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/retube/static/css/main.70fb5f4e.chunk.css",
+    "main.js": "/retube/static/js/main.37fd311e.chunk.js",
+    "main.js.map": "/retube/static/js/main.37fd311e.chunk.js.map",
+    "runtime-main.js": "/retube/static/js/runtime-main.f2e54f4c.js",
+    "runtime-main.js.map": "/retube/static/js/runtime-main.f2e54f4c.js.map",
+    "static/js/2.6daa9151.chunk.js": "/retube/static/js/2.6daa9151.chunk.js",
+    "static/js/2.6daa9151.chunk.js.map": "/retube/static/js/2.6daa9151.chunk.js.map",
+    "index.html": "/retube/index.html",
+    "precache-manifest.ced3d3ba419b3be20e1f93570a0655d7.js": "/retube/precache-manifest.ced3d3ba419b3be20e1f93570a0655d7.js",
+    "service-worker.js": "/retube/service-worker.js",
+    "static/css/main.70fb5f4e.chunk.css.map": "/retube/static/css/main.70fb5f4e.chunk.css.map",
+    "static/js/2.6daa9151.chunk.js.LICENSE.txt": "/retube/static/js/2.6daa9151.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2e54f4c.js",
+    "static/js/2.6daa9151.chunk.js",
+    "static/css/main.70fb5f4e.chunk.css",
+    "static/js/main.37fd311e.chunk.js"
+  ]
+}
