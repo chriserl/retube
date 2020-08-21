@@ -1,12 +1,13 @@
 import React from "react";
+import Navbar from "../components/Navbar";
 import "../sass/main.scss";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <p className="h1">App</p>
+      <Navbar />
     </div>
   );
-}
+};
 
 export default App;
